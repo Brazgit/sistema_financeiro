@@ -94,9 +94,6 @@
     </div>
   </div>
 </div>
-<!--<a class="box-item" href="https://www.instagram.com/gabrielalves.code/" target="_blank"><img src="./assets/img/Logo/logo1.png" class="rabbit"> </a>-->
-<!-- partial -->
   <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script><script  src="./includes/js/script.js"></script>
-
 </body>
 </html>
