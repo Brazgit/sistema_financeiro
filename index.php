@@ -1,6 +1,6 @@
 <?php include 'includes/funcions/login.php'; ?>
 
-<html lang="en" >
+<html lang="pt" >
 <head>
   <meta charset="UTF-8">
   <title>Sistema de Gestão Financeira</title>
@@ -78,7 +78,7 @@
                       </div>
                   </div>
                 </div>
-
+              
                 <form method="POST" action="./assets/php/cadastrarUsuarios.php">
                     <input name="email" placeholder="Email" type="text" required/>
                     <input name="nome" placeholder="Nome" type="text" required/>          
@@ -87,7 +87,7 @@
                     <input name="Password" placeholder="Senha" type="Password" required/>
                     <input class="btn2" type="submit" value=" Cadastrar">
                 </form>
-
+              
           </div>
         </div>
       </div>
