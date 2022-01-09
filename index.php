@@ -8,7 +8,6 @@
   <link rel="icon" href="assets/img/icon-financeiro.png">
 </head>
 <body>
-<!-- partial:index.partial.html -->
 <div class="container">
   <div class="box"></div>
   <div class="container-forms">
@@ -56,13 +55,11 @@
                 </div>
             </div>
             <br>
-              
             <form method="POST">
                 <input name="Username" placeholder="Nome" type="text" required/>
                 <input name="Password" placeholder="Senha" type="Password" required/>
                 <input class="btn" type="submit" value="Entrar">
             </form>
-
           </div>
         </div>
       </div>
@@ -78,7 +75,6 @@
                       </div>
                   </div>
                 </div>
-              
                 <form method="POST" action="./assets/php/cadastrarUsuarios.php">
                     <input name="email" placeholder="Email" type="text" required/>
                     <input name="nome" placeholder="Nome" type="text" required/>          
@@ -87,7 +83,6 @@
                     <input name="Password" placeholder="Senha" type="Password" required/>
                     <input class="btn2" type="submit" value=" Cadastrar">
                 </form>
-              
           </div>
         </div>
       </div>
