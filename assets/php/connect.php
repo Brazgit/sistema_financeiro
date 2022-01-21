@@ -6,6 +6,8 @@ $db     = 'site';
 $user   = 'root';
 $pass   = '';
 
+# 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
+
 //////////// Conexão com banco de dados //////////////////
 try{
 
