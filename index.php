@@ -1,7 +1,7 @@
 <!-- Formulário de Login -->
 <form action="validacao.php" method="post">
 <fieldset>
-<legend>Dados de Login - teste</legend>
+<legend>Dados de Login</legend>
   <label for="txUsuario">Usuário</label>
   <input type="text" name="usuario" id="txUsuario" maxlength="25" />
   <label for="txSenha">Senha</label>
