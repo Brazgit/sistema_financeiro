@@ -1,4 +1,4 @@
-<!-- Formulário de Login teste-->
+<!-- Formulário de Login-->
 <form action="validacao.php" method="post">
 <fieldset>
 <legend>Dados de Login</legend>
